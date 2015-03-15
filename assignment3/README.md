@@ -17,4 +17,5 @@ Python codes are names of the task, i.e. task 1.1 is 1.1_storing_db_streamT.py
 
 - 3.  The plot of your lexical diversity in task 2.2
 
-I plotted lexical dispersion for the corpus of tweets over the 10 most common English words, see lexical_dispersion.png
+I plotted lexical dispersion for the corpus of tweets over the 10 most common English words: 
+https://www.dropbox.com/s/6h76jphxr34b13f/lexical_dispersion.png?dl=0
